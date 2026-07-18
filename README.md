@@ -1,3 +1,2 @@
 # Calculator
-<br/>
-Simple calculator in HTML
+A fully working calculator with a simple interface
